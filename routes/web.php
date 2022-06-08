@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Controllers\TasksController;
+use App\Http\Controllers\TasksController;
 
 /*
 |--------------------------------------------------------------------------
